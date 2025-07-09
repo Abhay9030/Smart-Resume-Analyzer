@@ -1,0 +1,28 @@
+.container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: #f7f7f7;
+  border-radius: 10px;
+  font-family: Arial;
+}
+
+textarea {
+  width: 100%;
+  resize: none;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+}
+
+.result {
+  margin-top: 2rem;
+  background: #e8f0fe;
+  padding: 1rem;
+  border-radius: 10px;
+}
